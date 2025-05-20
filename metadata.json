@@ -1,0 +1,7 @@
+{
+  "name": "vanguard",
+  "creator": "Toluro - N4w3",
+  "description": "Enable the vanguard calculator thing",
+  "version": "1.0.0",
+  "entry": "index.js"
+}
